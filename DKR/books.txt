@@ -1,0 +1,12 @@
+1,Wlwoh1,Dxwkru1,Sxeolvkhu1,2020,200,9.990000,Kdugfryhu
+2,Wlwoh2,Dxwkru2,Sxeolvkhu2,2021,250,12.990000,Sdshuedfn
+3,Wlwoh3,Dxwkru1,Sxeolvkhu3,2019,180,7.990000,Kdugfryhu
+4,Wlwoh4,Dxwkru3,Sxeolvkhu1,2003,300,20.990000,Kdugfryhu
+1,Vkvng1,Cwvjqt1,Rwdnkujgt1,2020,200,9.990000,Jctfeqxgt
+2,Vkvng2,Cwvjqt2,Rwdnkujgt2,2021,250,12.990000,Rcrgtdcem
+3,Vkvng3,Cwvjqt1,Rwdnkujgt3,2019,180,7.990000,Jctfeqxgt
+4,Vkvng4,Cwvjqt3,Rwdnkujgt1,2003,300,20.990000,Jctfeqxgt
+1,Ujumf1,Bvuips1,Qvcmjtifs1,2020,200,9.990000,Ibsedpwfs
+2,Ujumf2,Bvuips2,Qvcmjtifs2,2021,250,12.990000,Qbqfscbdl
+3,Ujumf3,Bvuips1,Qvcmjtifs3,2019,180,7.990000,Ibsedpwfs
+4,Ujumf4,Bvuips3,Qvcmjtifs1,2003,300,20.990000,Ibsedpwfs

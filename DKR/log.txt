@@ -1,0 +1,18 @@
+[2023-06-06 16:25:56] Failed to load books from file: books.txt
+[2023-06-06 16:25:56] Added book: Title1
+[2023-06-06 16:25:56] Added book: Title2
+[2023-06-06 16:25:56] Added book: Title3
+[2023-06-06 16:25:56] Added book: Title4
+[2023-06-06 16:25:56] Saved books to file: books.txt
+[2023-06-06 16:26:27] Loaded books from file: books.txt
+[2023-06-06 16:26:27] Added book: Title1
+[2023-06-06 16:26:27] Added book: Title2
+[2023-06-06 16:26:27] Added book: Title3
+[2023-06-06 16:26:27] Added book: Title4
+[2023-06-06 16:26:27] Saved books to file: books.txt
+[2023-06-06 17:38:40] Loaded books from file: books.txt
+[2023-06-06 17:38:40] Added book: Title1
+[2023-06-06 17:38:40] Added book: Title2
+[2023-06-06 17:38:40] Added book: Title3
+[2023-06-06 17:38:40] Added book: Title4
+[2023-06-06 17:38:40] Saved books to file: books.txt
